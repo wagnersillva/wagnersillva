@@ -1,9 +1,9 @@
 ## Eaê! Koala dev aqui na área, ou se preferir, Wagner Alves. 👋😄
- <br> <br>
- <div >
+ <br>
+ <div>
   <a href="https://github.com/wagnersillva">
-  <img height="250em" width="450" src="https://github-readme-stats.vercel.app/api?username=wagnersillva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="250em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnersillva&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wagnersillva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnersillva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <!--
