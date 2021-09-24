@@ -1,5 +1,5 @@
 ## Eaê! Seja bem-vindo ao meu perfil!
-### Eu sou o Wagner Alves, mas pode me chamar de Koala 👋😄🐨
+### Eu sou o Wagner Silva, mas pode me chamar de Koala 👋😄🐨
  <br>
  <div>
   <a href="https://github.com/wagnersillva">
