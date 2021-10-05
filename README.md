@@ -11,8 +11,8 @@ Sobre mim:
 
 <div>
   <a href="https://github.com/vitoria-isabela">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitoria-isabela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-isabela&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=vitoria-isabela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-isabela&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div>
